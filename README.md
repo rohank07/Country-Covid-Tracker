@@ -5,7 +5,7 @@ What better way to spend quarentine than learning the react library. With the cu
 I would like to give credit to JavaScript Mastery on Youtube, being a great guide in teaching the fundamentals and helping building the app.
 
 ## Description
-A clean UI displays the global deaths, recovered and total cases in the world. Also can filter countries to view specific country's deaths, recovered and total cases presented in a bar graph.
+A clean, simple UI displays the global deaths, recovered and total cases in the world through a line graph. Also can filter countries to view specific country's deaths, recovered and total cases presented in a bar graph.
 
 ![](covid.gif)
 
