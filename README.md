@@ -1,7 +1,12 @@
+## Country-Covid-Tracker
+
 What better way to spend quarentine than learning the react library. With the current situation at hand, I thought it be cool to create my first react-app as a Country-Covid tracker web page using a web api, Material UI, Charts.js, React Hooks.
 
-
 I would like to give credit to JavaScript Mastery on Youtube, being a great guide in teaching the fundamentals and helping building the app.
+
+## Description
+A clean UI displays the global deaths, recovered and total cases in the world. Also can filter countries to view specific country's deaths, recovered and total cases presented in a bar graph.
+
 
 ## Web API
 
