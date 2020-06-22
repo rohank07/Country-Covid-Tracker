@@ -1,3 +1,13 @@
+What better way to spend quarentine than learning the react library. With the current situation at hand, I thought it be cool to create my first react-app as a Country-Covid tracker web page using a web api, Material UI, Charts.js, React Hooks.
+
+
+I would like to give credit to JavaScript Mastery on Youtube, being a great guide in teaching the fundamentals and helping building the app.
+
+## Web API
+
+https://covid19.mathdro.id/api
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
