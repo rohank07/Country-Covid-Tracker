@@ -7,7 +7,7 @@ I would like to give credit to JavaScript Mastery on Youtube, being a great guid
 ## Description
 A clean UI displays the global deaths, recovered and total cases in the world. Also can filter countries to view specific country's deaths, recovered and total cases presented in a bar graph.
 
-![](covid gif.gif)
+![](covid.gif)
 
 
 ## Web API
